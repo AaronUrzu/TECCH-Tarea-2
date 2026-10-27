@@ -1,2 +1,6 @@
-# TECCH-Tarea-2
-Estructuras de datos lineales en python: Listas, Expresiones  regulares, pilas y colas de python
+Nombre del equipo: TECCH
+Integrantes:
+Galindo Ortis Marcos Santiago
+Maldonado Solis Juan Alexis
+Martinez Granados Alejandro
+Urzúa Olais Aarón Felipe
